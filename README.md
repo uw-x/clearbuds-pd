@@ -14,3 +14,5 @@ Base design #3: shio_clearvoice_white_eartip vXX.stl
 Use .stl files to 3D print enclosures. Generally resin printers that can achieve a submillimeter resolution will produce the best results for the small snap and hole features between the lid and base.
 
 There are three base designs provided that each have different size shafts that interface with different eartip designs to accomodate different ear shapes and sizes. Base design #1 interfaces with Sony DR-EX12iP eartips. Base design #2 interfaces interfaces with JBL Reflect eartips as well as replacement ones such as Meijunter B01L3DM8Z2 (https://www.amazon.com/gp/product/B01L3DM8Z2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1). Base design #3 interfaces with Vezukv eartips NJEG-6W (https://www.amazon.com/gp/product/B07WFK8KVJ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1). The wing of these last two eartips generally help the earbuds sit more stably across different ear shapes. 
+
+![IMG_9977](https://user-images.githubusercontent.com/5505118/166154938-29a11562-11ab-4699-abfc-8ab8d0425daa.jpeg)
